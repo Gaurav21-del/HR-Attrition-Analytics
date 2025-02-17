@@ -25,10 +25,6 @@ HR Attrition Analytics Project.
 When overtime is "No," the gap between monthly income (6835003 higher) and attrition count widens significantly.
 
 
-## Dataset :
-https://drive.google.com/drive/folders/13nArPqBJSwpVRAVyvN2qqvF-XiFby-Pq?usp=sharing 
-
-
 ## Overview
 This project involves MySQL and Power BI analysis to delve into employee attrition,
 aiming to uncover patterns and factors contributing to turnover.
