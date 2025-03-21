@@ -1,4 +1,4 @@
-# HR-Attrition-Analytics
+# HR-Attrition-Analytics Using sql
 HR Attrition Analytics Project.
 
 # Hr-Attrition-Analytics
